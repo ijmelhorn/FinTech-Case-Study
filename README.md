@@ -1,2 +1,2 @@
-# Unit-1-Homework-Assignment-FinTech-Case-Study
+# Unit-1-FinTech-Case-Study
 Circle Case Study
